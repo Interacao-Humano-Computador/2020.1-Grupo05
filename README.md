@@ -1,7 +1,7 @@
 <h1 align="center"> Secretaria de Educação do DF </h1>
 
 <div align="center" >
-<img src="https://3.bp.blogspot.com/-dunwJ6pakO8/WAaq2Jx1ZMI/AAAAAAAAzOc/kET1NLGMMsUA52tW-4B_v_w-aDSdI7kIACLcB/s1600/Bandeira-do-distrito-federal-3.jpg" alt="Logo SEEDF" width="500" />
+<img src="./docs/assets/logo_secretaria.jpg" alt="Logo SEEDF" width="500" />
 </div>
 
 ## Sobre o Projeto:
