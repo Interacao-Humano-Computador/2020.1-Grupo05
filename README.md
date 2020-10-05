@@ -5,7 +5,8 @@
 </div>
 
 ## Sobre o Projeto:
-Este é um projeto desenvolvido para a matéria de Interação Humano Computador do curso de Engenharia de Software (UnB-FGA), com o objetivo de analisar o site da <a href="http://www.educacao.df.gov.br/"> Secretaria de Educação do DF </a> de acordo com os assuntos abordados na disciplina e fazer uma prototipação do site propondo melhorias à versão atual.
+Este é um projeto desenvolvido para a matéria de Interação Humano Computador do curso de Engenharia de Software (UnB-FGA), com o objetivo de analisar o site da <a href="http://www.educacao.df.gov.br/"> Secretaria de Educação do DF </a> de acordo com os assuntos abordados na disciplina e fazer uma prototipação do site propondo melhorias à versão atual.</br>
+**Obs.: Esse repositório foi descontinuado pois o grupo se juntou ao grupo do projeto relativo ao SAE.**
 
 ## Participantes:
 
